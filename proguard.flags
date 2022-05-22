@@ -1,1 +1,1 @@
--keep class org.protonplus.updater.ui.FlingBehavior { *; }
+-keep class org.protonaosp.updater.ui.FlingBehavior { *; }
